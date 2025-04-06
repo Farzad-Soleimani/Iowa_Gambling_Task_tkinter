@@ -570,4 +570,4 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = IGTApp()
     window.show()
-    sys.exit(app.exec())
+    sys.exit(app.exec())  
